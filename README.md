@@ -7,5 +7,5 @@ wget -q -O /usr/bin/m-trojan https://raw.githubusercontent.com/V3SAKURAAIRIV3/CH
 
 # UPDATE CHECK USER CONFIG XRAY
   ```html
-wget -q -O /usr/bin/user-tr https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-tr.sh && chmod +x /usr/bin/user-tr && wget -q -O /usr/bin/user-vless https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-vless.sh && chmod +x /usr/bin/user-vless && wget -q -O /usr/bin/user-vmess https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-ws.sh && chmod +x /usr/bin/user-vmess
+wget -q -O /usr/bin/user-tr https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-tr.sh && chmod +x /usr/bin/user-tr && wget -q -O /usr/bin/user-vless https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-vless.sh && chmod +x /usr/bin/user-vless && wget -q -O /usr/bin/user-ws https://raw.githubusercontent.com/V3SAKURAAIRIV3/CHECK-USER-XRAY/main/user-ws.sh && chmod +x /usr/bin/user-ws
 ```
